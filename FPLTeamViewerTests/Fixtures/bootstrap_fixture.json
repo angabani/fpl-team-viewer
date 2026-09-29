@@ -1,0 +1,26 @@
+{
+  "events": [],
+  "total_players": 11000000,
+  "element_types": [
+    { "id": 1, "plural_name": "Goalkeepers", "singular_name_short": "GKP" },
+    { "id": 2, "plural_name": "Defenders", "singular_name_short": "DEF" },
+    { "id": 3, "plural_name": "Midfielders", "singular_name_short": "MID" },
+    { "id": 4, "plural_name": "Forwards", "singular_name_short": "FWD" }
+  ],
+  "teams": [
+    { "id": 3, "code": 8, "name": "Chelsea", "short_name": "CHE", "strength": 4, "position": 3 },
+    { "id": 1, "code": 3, "name": "Arsenal", "short_name": "ARS", "strength": 5, "position": 1 },
+    { "id": 2, "code": 7, "name": "Aston Villa", "short_name": "AVL", "strength": 4, "position": 2 }
+  ],
+  "elements": [
+    { "id": 1, "first_name": "David", "second_name": "Raya Martín", "web_name": "Raya", "team": 1, "team_code": 3, "element_type": 1, "now_cost": 61, "total_points": 30, "status": "a", "form": "6.0" },
+    { "id": 2, "first_name": "Bukayo", "second_name": "Saka", "web_name": "Saka", "team": 1, "team_code": 3, "element_type": 3, "now_cost": 101, "total_points": 120, "status": "a", "form": "7.1", "selected_by_percent": "42.3", "news": "" },
+    { "id": 3, "first_name": "Declan", "second_name": "Rice", "web_name": "Rice", "team": 1, "team_code": 3, "element_type": 3, "now_cost": 65, "total_points": 120, "status": "a", "form": "5.0" },
+    { "id": 4, "first_name": "Martin", "second_name": "Ødegaard", "web_name": "Ødegaard", "team": 1, "team_code": 3, "element_type": 3, "now_cost": 85, "total_points": 90, "status": "d", "form": "3.2", "selected_by_percent": "8.0", "news": "Knee injury - 75% chance of playing" },
+    { "id": 5, "first_name": "Gabriel", "second_name": "dos Santos Magalhães", "web_name": "Gabriel", "team": 1, "team_code": 3, "element_type": 2, "now_cost": 60, "total_points": 80, "status": "a", "form": "4.0" },
+    { "id": 6, "first_name": "Kai", "second_name": "Havertz", "web_name": "Havertz", "team": 1, "team_code": 3, "element_type": 4, "now_cost": 75, "total_points": 70, "status": "i", "form": "2.0", "news": "" },
+    { "id": 7, "first_name": "Mikel", "second_name": "Arteta", "web_name": "Arteta", "team": 1, "team_code": 3, "element_type": 5, "now_cost": 15, "total_points": 10, "status": "a", "form": "0.0" },
+    { "id": 8, "first_name": "Emiliano", "second_name": "Martínez Romero", "web_name": "Martínez", "team": 2, "team_code": 7, "element_type": 1, "now_cost": 50, "total_points": 44, "status": "a", "form": "3.0" },
+    { "id": 9, "first_name": "Ollie", "second_name": "Watkins", "web_name": "Watkins", "team": 2, "team_code": 7, "element_type": 4, "now_cost": 90, "total_points": 101, "status": "a", "form": "6.5" }
+  ]
+}

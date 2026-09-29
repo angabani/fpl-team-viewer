@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.xcresult
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Editors and local tools
+.vscode/
+.idea/
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json
+*.local.*
+
+# Secrets
+.env
+.env.*
+*.pem
+*.p12
+*.mobileprovision
