@@ -96,7 +96,6 @@ To see it yourself: Edit Scheme > Test > Options > Code Coverage, run `Cmd + U`,
 
 ## Known limitations
 
-- The iPhone Duo simulator needs Xcode 27.1 beta. I tested the same layouts on iPhone (narrow) and iPad (wide), which match the folded and unfolded sizes.
 - Refreshing on the squad screen does not update the teams list until that list is refreshed too.
 - No team badges. They would need image loading and an image cache.
 - Strings use `String(localized:)` but there is only English.
