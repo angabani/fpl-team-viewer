@@ -102,6 +102,7 @@ To see it yourself: Edit Scheme > Test > Options > Code Coverage, run `Cmd + U`,
 
 ## With more time
 
+- Read positions from `element_types` in the response instead of the fixed 1 to 4 mapping, so names and any extra types come from the API.
 - A shared in-memory store so both screens update together after any refresh.
 - Team badges and player photos with a small image cache.
 - A player detail screen, and sort options on the squad (price, form, ownership).
